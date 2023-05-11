@@ -1,0 +1,32 @@
+﻿using eSyaOutsourcedServices.DL.Repository;
+using eSyaOutsourcedServices.DO;
+using eSyaOutsourcedServices.IF;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+
+
+namespace eSyaOutsourcedServices.WebAPI.Controllers
+{
+    [Route("api/[controller]/[action]")]
+    [ApiController]
+    public class OutSourcedVendorController : ControllerBase
+    {
+        private readonly IOutSourcedVendorRepository _outSourcedVendorRepository;
+        private readonly ICommonDataRepository _CommonDataRepository;
+        public OutSourcedVendorController(IOutSourcedVendorRepository outSourcedVendorRepository, ICommonDataRepository CommonDataRepository)
+        {
+            _outSourcedVendorRepository = outSourcedVendorRepository;
+            _CommonDataRepository = CommonDataRepository;
+        }
+        /// <summary>
+        /// Getting  Business Locations.
+        /// UI Reffered -Vendor Business Link
+        /// </summary>
+        [HttpGet]
+        public async Task<IActionResult> GetBusinessKey()
+        {
+            var bkeys = await _CommonDataRepository.GetBusinessKey();
+            return Ok(bkeys);
+        }
+    }
+}

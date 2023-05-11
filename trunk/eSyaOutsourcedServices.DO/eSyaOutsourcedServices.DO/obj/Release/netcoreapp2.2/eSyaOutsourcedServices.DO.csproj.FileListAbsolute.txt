@@ -1,0 +1,9 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.DO\eSyaOutsourcedServices.DO\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.pdb

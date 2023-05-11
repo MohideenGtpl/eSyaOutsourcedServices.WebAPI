@@ -1,0 +1,12 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\bin\Release\netcoreapp2.2\eSyaOutsourcedServices.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaOutsourcedServices.WebAPI\trunk\eSyaOutsourcedServices.IF\eSyaOutsourcedServices.IF\obj\Release\netcoreapp2.2\eSyaOutsourcedServices.IF.pdb
